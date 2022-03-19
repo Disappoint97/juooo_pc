@@ -20,7 +20,7 @@ class Home extends React.Component {
 
     render () {
         return <div>
-            <span>heiheihie</span>
+            <span>jjjjjj</span>
             <Divider orientation="left">Horizontal</Divider>
             <Row gutter={16} align='top'>
                 <Col className="gutter-row" span={6}>
